@@ -1,3 +1,4 @@
+Caleb Quisenberry, CSC102 Week 2
 I was working on a blackjack game, but ran into some concepts that were a bit too much for this week. 
 I plan to revisit that code in the coming weeks.
 I used this tutorial from Youtube for this week's project.
